@@ -1,5 +1,4 @@
 # EduAI-Landing-Page
-git remote add origin https://github.com/priyadharshini/EduAI-Landing-Page.git
 A fully responsive AI Learning Platform Landing Page built using HTML5, CSS3, Flexbox, CSS Grid, and Media Queries. This project features a modern UI, responsive layouts, interactive sections, and a clean design optimized for desktop, tablet, and mobile devices.
 
 Topics
